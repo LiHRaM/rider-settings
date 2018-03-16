@@ -3,5 +3,6 @@
     <option name="FONT_FAMILY" value="Fira Code Retina" />
     <option name="FONT_SCALE" value="1.25" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Inconsolata" />
   </component>
 </application>
